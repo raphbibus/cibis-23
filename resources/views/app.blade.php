@@ -1,5 +1,4 @@
-<x-head title="ralph cibis" description="leadership. culture. software engineering. climbing. cooking. agile coaching."></x-head>
-
+<x-head title="ralph cibis" description="culture engineer. organization architect. leadership. modern work. software engineering. climbing. cooking. agile coaching."></x-head>
 <body class="antialiased bg-zinc-100 dark:bg-zinc-800">
 <div class="flex justify-center items-center h-screen mx-8">
     <div class="text-left text-black dark:text-zinc-100">
