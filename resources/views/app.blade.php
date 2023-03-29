@@ -7,7 +7,9 @@
         <hr class="border-4 border-green-800 dark:border-green-900 hover:border-amber-400"/>
         <div class="">
             <div class="mt-1 font-bold text-xl">
-                leadership. culture. software engineering.<br>climbing. cooking. agile coaching.
+                culture engineer. organization architect.<br>
+                leadership. modern work. software engineering.<br>
+                climbing. cooking. agile coaching.
             </div>
             <div class="mt-4">
                 <a href="https://agile-punks.com/" target="_blank"><img alt="agile punks website" class="h-16 sm:h-12 md:h-8 inline rounded-xl mr-1 dark:bg-zinc-100 shadow shadow-zinc-800" src="{{asset('img/agilepunks.webp')}}"></a>
