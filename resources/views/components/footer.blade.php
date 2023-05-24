@@ -3,7 +3,7 @@
                 <h1 class="text-5xl font-bold">imprint</h1>
                 <h2 class="text-xl font-bold my-2">information pursuant to § 5 TMG</h2>
                 ralph cibis - memmelsdorfer str. 99c - 96052 bamberg<br>
-                email: ralph [ät] cib [dot] is<br>
+                email: website [ät] cib [dot] is<br>
                 sales tax identification number according to § 27 a of the sales tax law:<br>
                 DE319898841
                 <nav class="font-bold mt-4">
