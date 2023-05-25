@@ -6,7 +6,7 @@
         <hr class="border-4 border-green-900"/>
         <div class="">
             <div class="mt-1 font-bold text-xl">
-                culture engineer. organization architect.
+                culture engineer. organization architect. agile punk.
                 <p class="text-sm">leadership. modern work. software engineering.<br>
                     climbing. cooking. agile coaching.</p>
             </div>
