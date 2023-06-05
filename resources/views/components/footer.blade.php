@@ -1,4 +1,4 @@
-        <footer class="flex justify-center items-center bg-green-800 dark:bg-green-900 h-screen">
+        <footer class="flex justify-center items-center bg-green-900 h-screen">
             <div class="text-left text-zinc-100 mx-8">
                 <h1 class="text-5xl font-bold">imprint</h1>
                 <h2 class="text-xl font-bold my-2">information pursuant to § 5 TMG</h2>

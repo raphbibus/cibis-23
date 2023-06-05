@@ -19,4 +19,4 @@
 
         @vite('resources/js/app.js')
     </head>
-    <body class="antialiased bg-zinc-100 dark:bg-zinc-800">
+    <body class="antialiased bg-zinc-800">

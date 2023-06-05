@@ -1,7 +1,7 @@
 <x-head title="ralph cibis - privacy statement" description="privacy statement."></x-head>
 
-<body class="antialiased bg-zinc-100 dark:bg-zinc-800">
-<div class="w-full lg:w-1/2 mx-auto prose dark:prose-invert my-8">
+<body class="antialiased bg-zinc-800">
+<div class="w-full lg:w-1/2 mx-auto prose-invert my-8">
     <div class="mx-8">
     <h1>Privacy Policy</h1>
     <h2>1. An overview of data protection</h2>
