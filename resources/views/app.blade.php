@@ -11,7 +11,6 @@
                     climbing. cooking. agile coaching.</p>
             </div>
             <div class="mt-4">
-                <a href="https://medium.com/@ralphcibis" target="_blank"><img alt="ralph's medium blog" class="h-16 sm:h-12 md:h-8 inline rounded-xl mr-1 bg-zinc-800 shadow shadow-zinc-800" src="{{asset('img/medium.webp')}}"></a>
                 <a href="https://www.linkedin.com/in/ralphcibis/" target="_blank"><img alt="ralph's linkedin profile" class="h-16 sm:h-12 md:h-8 inline rounded-xl mr-1 bg-zinc-100 shadow shadow-zinc-800" src="{{asset('img/linkedin.webp')}}"></a>
                 <a href="https://agile-punks.com/" target="_blank"><img alt="agile punks website" class="h-16 sm:h-12 md:h-8 inline rounded-xl mr-1 bg-zinc-100 shadow shadow-zinc-800" src="{{asset('img/agilepunks.webp')}}"></a>
                 <a href="https://github.com/raphbibus" target="_blank"><img alt="ralph's github profile" class="h-16 sm:h-12 md:h-8 inline rounded-xl mr-1 bg-zinc-100 shadow shadow-zinc-800" src="{{asset('img/github.webp')}}"></a>
