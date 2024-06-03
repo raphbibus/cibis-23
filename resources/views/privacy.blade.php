@@ -48,7 +48,7 @@
         access. </p>
     <h3> Information about the responsible party (referred to as the “controller” in the GDPR) </h3>
     <p>The data processing controller on this website is:</p>
-    <p>Ralph Cibis<br>Memmelsdorfer Str. 99C<br>96052 Bamberg</p>
+    <p>Ralph Cibis<br>Adam-Senger-Str. 18<br>96052 Bamberg</p>
     <p>Email: privacy [ät] cib [dot] is</p>
     <p> The controller is the natural person or legal entity that single-handedly or jointly with others makes
         decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail
